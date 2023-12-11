@@ -265,7 +265,7 @@
       </a>
       <a class="nav-link">
         <i class="material-icons">thumb_up</i>
-        <span>Liked Videos</span>
+        <span>Liked Videos call</span>
       </a>
     </div>
 
