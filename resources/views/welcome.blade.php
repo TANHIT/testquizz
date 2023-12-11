@@ -223,7 +223,7 @@
     </div>
 
     <div class="icons right">
-      <i class="material-icons">videocam</i>
+      <i class="material-icons">video</i>
       <i class="material-icons">apps</i>
       <i class="material-icons">notifications</i>
       <i class="material-icons display-this">account_circle</i>
@@ -234,7 +234,7 @@
     <div class="side-bar">
       <div class="nav">
         <a class="nav-link active">
-          <i class="material-icons">home</i>
+          <i class="material-icons">Home</i>
           <span>Home</span>
         </a>
         <a class="nav-link">
